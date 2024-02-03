@@ -20,7 +20,7 @@ export const Hint = () => {
           </svg>
         </button>
 
-        <div x-show='open' class='hints'>
+        <div x-show='open' class='hints' x-collapse>
           <p>
             Ich empfehle, dass ihr euch Zeit für die Beantwortung nehmt und euch
             die Fragen gegenseitig steilt. Habt Mut zum Abschweifen!
