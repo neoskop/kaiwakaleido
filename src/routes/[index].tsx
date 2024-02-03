@@ -2,7 +2,7 @@ import { Content } from '../components/Content';
 import { Game } from '../components/Game/Game';
 import { Hint } from '../components/Hint';
 import Layout from '../components/Layout';
-import { RouteProps } from './types';
+import { RouteProps } from '../types/types';
 
 export default function Homepage({}: RouteProps) {
   return (

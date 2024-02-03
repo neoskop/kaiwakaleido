@@ -1,6 +1,6 @@
 import { Content } from '../components/Content';
 import Layout from '../components/Layout';
-import { RouteProps } from './types';
+import { RouteProps } from '../types/types';
 
 export default function Homepage({}: RouteProps) {
   return (
