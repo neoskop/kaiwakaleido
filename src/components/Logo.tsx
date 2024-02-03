@@ -1,6 +1,6 @@
 export const Logo = () => {
   return (
-    <div class='logo'>
+    <a class='logo' href='/'>
       <svg viewBox='0 0 425.2 117.86' class='neoskop-logo'>
         <g fill='currentColor'>
           <path d='m189.52 59.11c0 16.56-11.94 28.5-28.28 28.5s-28.17-11.94-28.17-28.5 11.84-28.72 28.17-28.72 28.28 12.17 28.28 28.72m-45.6 0c0 11 7.24 19 17.32 19s17.43-8 17.43-19-7.35-19.18-17.43-19.18-17.32 8.07-17.32 19.18' />
@@ -26,6 +26,6 @@ export const Logo = () => {
           fill='currentColor'
         />
       </svg>
-    </div>
+    </a>
   );
 };
