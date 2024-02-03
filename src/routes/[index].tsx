@@ -1,7 +1,7 @@
 import { Content } from '../components/Content';
 import { Game } from '../components/Game/Game';
 import { Hint } from '../components/Hint';
-import Layout from './Layout';
+import Layout from '../components/Layout';
 import { RouteProps } from './types';
 
 export default function Homepage({}: RouteProps) {

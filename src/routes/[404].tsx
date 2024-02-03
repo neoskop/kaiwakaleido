@@ -1,4 +1,4 @@
-import Layout from './Layout';
+import Layout from '../components/Layout';
 import { RouteProps } from './types';
 
 export default function ResourceNotFoundPage({}: RouteProps) {

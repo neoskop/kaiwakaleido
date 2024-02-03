@@ -275,13 +275,42 @@ body {
   background-color: #121212;
 }
 
+.heading {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  margin: 0;
+  font-size: 3rem;
+  line-height: 1.2;
+}
+
+.subtitle {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.description {
+  margin: 0;
+  font-size: 1.125rem;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
 .logo {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
   color: #fff;
-  width: 100%;
 }
 .logo .neoskop-logo,
 .logo .kaiwa-logo {
@@ -291,6 +320,12 @@ body {
 .logo .x-logo {
   max-width: 1.75rem;
   width: 100%;
+}
+@media screen and (max-width: 375px) {
+  .logo .neoskop-logo,
+  .logo .x-logo {
+    display: none;
+  }
 }
 
 .hint {
@@ -376,6 +411,10 @@ body {
   height: 85px;
 }
 
+.inner {
+  position: relative;
+}
+
 .game {
   display: flex;
   flex-direction: column;
@@ -436,4 +475,11 @@ body {
 .legal a {
   text-decoration: none;
   color: #fff;
+}
+
+.information {
+  position: absolute;
+  right: -2rem;
+  bottom: 1rem;
+  cursor: pointer;
 }

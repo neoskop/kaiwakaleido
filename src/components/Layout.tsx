@@ -1,5 +1,6 @@
-import { Logo } from '../components/Logo';
+import { Logo } from './Logo';
 import { version } from '../../package.json';
+import { Information } from './Information';
 
 type LayoutProps = {
   title?: string;
@@ -49,7 +50,10 @@ export default function Layout({
         </head>
         <body>
           <header class='header'>
-            <Logo />
+            <div class='inner'>
+              <Logo />
+              <Information />
+            </div>
           </header>
           {children}
         </body>
