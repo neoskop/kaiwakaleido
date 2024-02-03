@@ -9,7 +9,3 @@ KaiwaKaleido ist ein einzigartiges, interaktives Spiel, das darauf abzielt, die 
 ```bash
 npm run dev
 ```
-
-## Deployment
-
-You can deploy the project either via a node server (use `npm start`) or in a serverless environment. The serverless configuration for deploying to [Vercel](https://vercel.com/) is already included.
