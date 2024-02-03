@@ -1,0 +1,19 @@
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  color: #fff;
+  width: 100%;
+
+  .neoskop-logo,
+  .kaiwa-logo {
+    max-width: 7.5rem;
+    width: 100%;
+  }
+
+  .x-logo {
+    max-width: 1.75rem;
+    width: 100%;
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "kaiwakaleido",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Noel Bank",
+    "url": "https://github.com/noelbank",
+    "email": "info@nbank.dev"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "jeasx start",
+    "build": "jeasx build",
+    "dev": "jeasx dev ecosystem.config.cjs",
+    "scss": "sass src/styles/main.scss:src/browser/index.css --no-source-map"
+  },
+  "dependencies": {
+    "alpinejs": "^3.13.5",
+    "jeasx": "0.2.2",
+    "sass": "^1.70.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}

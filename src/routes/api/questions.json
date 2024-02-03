@@ -1,0 +1,242 @@
+[
+  {
+    "category": "personality",
+    "question": "Was ist eine Eigenschaft, die du an dir besonders schätzt?"
+  },
+  {
+    "category": "personality",
+    "question": "Welche drei Worte würden dich am besten beschreiben?"
+  },
+  {
+    "category": "personality",
+    "question": "Über welche deiner Entscheidungen bist du besonders stolz?"
+  },
+  {
+    "category": "personality",
+    "question": "Was motiviert dich jeden Tag?"
+  },
+  {
+    "category": "personality",
+    "question": "Was ist deine größte Stärke und deine größte Schwäche?"
+  },
+  {
+    "category": "personality",
+    "question": "Wie gehst du mit Stress oder Druck um?"
+  },
+  {
+    "category": "personality",
+    "question": "Was war das mutigste, das du je getan hast?"
+  },
+  {
+    "category": "personality",
+    "question": "Was ist ein ungewöhnliches Talent, das du besitzt?"
+  },
+  {
+    "category": "personality",
+    "question": "Welche kleinen Dinge machen dich im Alltag glücklich?"
+  },
+  {
+    "category": "personality",
+    "question": "Was ist ein Ziel, das du in den nächsten fünf Jahren erreichen möchtest?"
+  },
+  {
+    "category": "work",
+    "question": "Was gefällt dir am meisten an deiner aktuellen Position?"
+  },
+  {
+    "category": "work",
+    "question": "Was war dein bisher spannendstes Projekt?"
+  },
+  {
+    "category": "work",
+    "question": "Wie sieht für dich die ideale Arbeitsumgebung aus?"
+  },
+  {
+    "category": "work",
+    "question": "Was war deine größte Herausforderung im Beruf und wie hast du sie gemeistert?"
+  },
+  {
+    "category": "work",
+    "question": "Was ist ein wertvolles Stück Berufsweisheit, das du teilen kannst?"
+  },
+  {
+    "category": "work",
+    "question": "Welche Fähigkeiten möchtest du in deinem Berufsfeld noch erlernen?"
+  },
+  {
+    "category": "work",
+    "question": "Wie wichtig ist dir Work-Life-Balance und wie gestaltest du sie?"
+  },
+  {
+    "category": "work",
+    "question": "Was war dein erster Job und was hast du daraus gelernt?"
+  },
+  {
+    "category": "work",
+    "question": "Wie gehst du mit Kritik am Arbeitsplatz um?"
+  },
+  {
+    "category": "work",
+    "question": "Was inspiriert dich in deinem Berufsfeld?"
+  },
+  {
+    "category": "hobbies",
+    "question": "Was ist ein Hobby, das du immer schon ausprobieren wolltest?"
+  },
+  {
+    "category": "hobbies",
+    "question": "Was ist dein seltsamstes Hobby?"
+  },
+  {
+    "category": "hobbies",
+    "question": "Welches Hobby hast du kürzlich neu entdeckt?"
+  },
+  {
+    "category": "hobbies",
+    "question": "Gibt es ein Hobby, das du gemeinsam mit Freunden oder Familie ausübst?"
+  },
+  {
+    "category": "hobbies",
+    "question": "Was entspannt dich am meisten nach einem langen Tag?"
+  },
+  {
+    "category": "hobbies",
+    "question": "Hast du ein kreatives Hobby? Erzähle uns davon!"
+  },
+  {
+    "category": "hobbies",
+    "question": "Was war das letzte Buch, das du gelesen hast, und wie hat es dir gefallen?"
+  },
+  {
+    "category": "hobbies",
+    "question": "Welche Art von Musik hörst du beim Entspannen oder bei der Arbeit?"
+  },
+  {
+    "category": "hobbies",
+    "question": "Gibt es ein Hobby, das du als Kind geliebt hast und heute noch ausübst?"
+  },
+  {
+    "category": "hobbies",
+    "question": "Welches neue Hobby möchtest du im nächsten Jahr beginnen?"
+  },
+  {
+    "category": "freetime",
+    "question": "Welchen Sport treibst du regelmäßig und warum?"
+  },
+  {
+    "category": "freetime",
+    "question": "Was ist dein Lieblingssport zum Zuschauen?"
+  },
+  {
+    "category": "freetime",
+    "question": "Hast du eine sportliche Herausforderung, die du dir selbst gestellt hast?"
+  },
+  {
+    "category": "freetime",
+    "question": "Welche sportliche Aktivität würdest du gerne ausprobieren?"
+  },
+  {
+    "category": "freetime",
+    "question": "Was war dein größter sportlicher Erfolg?"
+  },
+  {
+    "category": "freetime",
+    "question": "Gibt es einen Sport, den du nie wieder ausüben möchtest? Warum?"
+  },
+  {
+    "category": "freetime",
+    "question": "Wie integrierst du Sport in deinen Alltag?"
+  },
+  {
+    "category": "freetime",
+    "question": "Was ist dein Lieblingsort für Outdoor-Aktivitäten?"
+  },
+  {
+    "category": "freetime",
+    "question": "Welche Bedeutung hat Sport in deinem Leben?"
+  },
+  {
+    "category": "freetime",
+    "question": "Wie hat sich deine Einstellung zum Sport im Laufe der Zeit verändert?"
+  },
+  {
+    "category": "development",
+    "question": "Was ist ein persönliches Entwicklungsziel, das du dieses Jahr erreichen möchtest?"
+  },
+  {
+    "category": "development",
+    "question": "Welche neue Fähigkeit möchtest du lernen?"
+  },
+  {
+    "category": "development",
+    "question": "Wie bleibst du motiviert, dich ständig weiterzuentwickeln?"
+  },
+  {
+    "category": "development",
+    "question": "Gibt es ein Buch oder einen Kurs, der dein Leben verändert hat?"
+  },
+  {
+    "category": "development",
+    "question": "Welche Rolle spielen Mentoren in deinem Leben?"
+  },
+  {
+    "category": "development",
+    "question": "Wie gehst du mit Misserfolgen um und was lernst du daraus?"
+  },
+  {
+    "category": "development",
+    "question": "Was war die wichtigste Lektion, die du im letzten Jahr gelernt hast?"
+  },
+  {
+    "category": "development",
+    "question": "Wie setzt du dir Ziele und wie verfolgst du sie?"
+  },
+  {
+    "category": "development",
+    "question": "Wie wichtig ist dir lebenslanges Lernen?"
+  },
+  {
+    "category": "development",
+    "question": "Gibt es eine Fähigkeit oder ein Wissen, das du an andere weitergeben möchtest?"
+  },
+  {
+    "category": "private",
+    "question": "Was ist dein Lieblingsort auf der Welt und warum?"
+  },
+  {
+    "category": "private",
+    "question": "Was war der beste Ratschlag, den du je erhalten hast?"
+  },
+  {
+    "category": "private",
+    "question": "Welches Ereignis hat dein Leben am meisten beeinflusst?"
+  },
+  {
+    "category": "private",
+    "question": "Was ist dein liebstes Familientradition?"
+  },
+  {
+    "category": "private",
+    "question": "Hast du ein verborgenes Talent? Was ist es?"
+  },
+  {
+    "category": "private",
+    "question": "Was macht für dich einen perfekten Tag aus?"
+  },
+  {
+    "category": "private",
+    "question": "Was ist das Verrückteste, das du je gemacht hast?"
+  },
+  {
+    "category": "private",
+    "question": "Wenn du einen Tag mit einer beliebigen Person verbringen könntest, wer wäre das und warum?"
+  },
+  {
+    "category": "private",
+    "question": "Gibt es etwas, das du schon immer lernen wolltest?"
+  },
+  {
+    "category": "private",
+    "question": "Was ist das wertvollste, das du besitzt?"
+  }
+]
