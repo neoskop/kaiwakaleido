@@ -13,7 +13,7 @@ type Categorys =
   | 'personal_development'
   | 'future_plans'
   | 'personal_values_and_beliefs'
-  | 'interests_and_hobbies'
+  | 'interests_and_passions'
   | 'memories_and_stories';
 
 const CATEGORY_NAMES: Record<Categorys, string> = {
