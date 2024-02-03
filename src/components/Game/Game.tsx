@@ -7,7 +7,7 @@ export const Game = () => {
       buttonText: "Lass uns Loslegen!",
       status: "initial",
       response:{
-        question: "Starte spannende Gespräch mit nur einem Klick!",
+        question: "Starte spannende Gespräche mit nur einem Klick!",
         category: ""
       },
       async load() {
