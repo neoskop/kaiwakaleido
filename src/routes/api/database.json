@@ -2178,5 +2178,201 @@
   {
     "question": "Welche Fertigkeit außerhalb deines beruflichen Umfelds möchtest du in der Zukunft meistern?",
     "category": "personal_development"
+  },
+  {
+    "question": "Welche kleinen täglichen Routinen tragen zu deinem beruflichen Erfolg bei?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Was war die beste Entscheidung in deiner Karriere und warum?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie gehst du mit der Angst vor Veränderungen im Berufsleben um?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Was motiviert dich, dich für soziale oder gemeinnützige Zwecke einzusetzen?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Ressourcen nutzt du, um beruflich auf dem Laufenden zu bleiben?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Erzähle von einem Projekt, das dich aus deiner Komfortzone herausgeführt hat.",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Wie hat eine Teamerfahrung deine Ansichten über Zusammenarbeit geändert?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Was war dein größter Lernmoment bei der Arbeit und wie hat er dich geprägt?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Wie gehst du mit Meinungsverschiedenheiten im Arbeitskontext um?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Welche Fähigkeiten sind deiner Meinung nach unerlässlich in deinem Berufsfeld?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Welches persönliche Ziel hast du kürzlich erreicht und wie hast du dich dabei gefühlt?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Wie überwindest du Hindernisse auf dem Weg zur Selbstverbesserung?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Auf welche Weise trägt deine berufliche Entwicklung zu deinem persönlichen Wachstum bei?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welchen Stellenwert hat das lebenslange Lernen für dich?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Wie hat sich deine Einstellung zu Fehlern und Misserfolgen im Laufe der Zeit verändert?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welche Technologie oder welchen Trend siehst du als wegweisend für deine Zukunft?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Wie stellst du dir das ideale Gleichgewicht zwischen Arbeit und Freizeit in der Zukunft vor?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Gibt es eine Fähigkeit oder ein Hobby, das du in Zukunft meistern möchtest?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welchen Beitrag möchtest du leisten, um die Welt zu einem besseren Ort zu machen?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Wie planst du, dich in den nächsten Jahren gesund und aktiv zu halten?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welcher Wert ist dir im Umgang mit Konflikten am wichtigsten?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Wie reflektieren deine persönlichen Überzeugungen deine täglichen Entscheidungen?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Gibt es eine Überzeugung, die du früher hattest und die sich im Laufe der Zeit verändert hat?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Wie beeinflusst deine kulturelle Herkunft deine Werte und Überzeugungen heute?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Auf welche Weise trägst du dazu bei, deine Werte in deiner Gemeinschaft oder deinem Umfeld zu fördern?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Gibt es eine kulturelle Veranstaltung, die du nicht verpassen würdest?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welche Aktivität lässt dich völlig die Zeit vergessen?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Hast du eine Leidenschaft, die du gerne mit anderen teilst?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welches Buch oder welche Filmreihe hat dich nachhaltig beeinflusst?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Gibt es ein Thema oder eine Sache, für die du gerne mehr Zeit hättest?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welche Geschichte erzählt deine Familie immer wieder gerne über dich?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Gibt es ein Ereignis in deinem Leben, das wie aus einem Film wirkt?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Was war der bisher beste Rat, den du erhalten hast?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Erzähle von einem Moment, in dem du stolz auf dich warst.",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Gibt es ein besonderes Objekt, das du besitzt, welches eine Geschichte erzählt?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welche Trends in deiner Branche findest du momentan am spannendsten?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie würdest du deine idealen Arbeitsbedingungen beschreiben?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Was war das wichtigste Feedback, das du jemals erhalten hast, und wie hast du es umgesetzt?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie hat sich deine Definition von Erfolg im Laufe deines Lebens verändert?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Was tust du, um dich geistig und körperlich fit zu halten?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Gibt es eine Fähigkeit, die du im nächsten Jahr lernen möchtest?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Wie stellst du dir deine Work-Life-Balance in der Zukunft vor?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welchen Stellenwert hat Gleichheit für dich in der Gesellschaft?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Wie äußern sich deine Werte in deinem täglichen Leben?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Welches Hobby würdest du gerne anderen beibringen?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Gibt es eine besondere Musikrichtung, die du jedem empfehlen würdest?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welches ist deine liebste Kindheitserinnerung?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Gibt es ein Erlebnis, das dich stark geprägt hat?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Erzähle von einem Moment, in dem du über dich hinausgewachsen bist.",
+    "category": "memories_and_stories"
   }
 ]
