@@ -1,6 +1,7 @@
 import { Logo } from './Logo';
 import { version } from '../../package.json';
 import { Information } from './Information';
+import { Legal } from './Legal';
 
 type LayoutProps = {
   title?: string;
@@ -56,6 +57,10 @@ export default function Layout({
             </div>
           </header>
           {children}
+
+          <footer class='footer'>
+            <Legal />
+          </footer>
         </body>
       </html>
     </>

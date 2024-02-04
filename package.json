@@ -15,10 +15,10 @@
     "scss": "sass src/styles/main.scss:src/browser/index.css --no-source-map"
   },
   "dependencies": {
-    "@alpinejs/collapse": "^3.13.5",
-    "alpinejs": "^3.13.5",
+    "@alpinejs/collapse": "3.13.5",
+    "alpinejs": "3.13.5",
     "jeasx": "0.2.2",
-    "sass": "^1.70.0"
+    "sass": "1.70.0"
   },
   "engines": {
     "node": "20.x"

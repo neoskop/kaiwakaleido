@@ -37,7 +37,6 @@ export const Hint = () => {
           </p>
         </div>
       </div>
-      <Legal />
     </div>
   );
 };
