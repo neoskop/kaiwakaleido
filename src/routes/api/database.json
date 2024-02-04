@@ -1,0 +1,842 @@
+[
+	{
+		"question": "Gibt es eine Entscheidung, die du getroffen hast, die dein Leben zum Besseren gewendet hat?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Gibt es ein Projekt, von dem du träumst, es eines Tages umzusetzen?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie bist du mit einer Situation umgegangen, in der du nicht mit den Entscheidungen deines Vorgesetzten einverstanden warst?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Erzähle von einem unvergesslichen Geburtstag oder einer Feier.",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was ist ein unbezahlbarer Rat, den du von einem älteren Familienmitglied erhalten hast?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Wie definierst du Glück und was macht dich wirklich glücklich?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Was ist dein Lieblingsgericht zu kochen, und was bedeutet Kochen für dich?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Wie siehst du die Balance zwischen materiellem Wohlstand und geistigem Wohlbefinden?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Wie gehst du mit Veränderungen in deinem Leben um?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Welches Ziel hast du kürzlich erreicht und wie hast du es gefeiert?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie bewältigst du Unsicherheit und Veränderung?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie priorisierst du deine persönliche Entwicklung?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Gibt es ein Erlebnis, bei dem du über dich selbst hinausgewachsen bist?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Gibt es eine berufliche Entscheidung, die du bereust oder besonders stolz darauf bist?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie würdest du deine ideale Arbeitsumgebung beschreiben?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Gibt es eine spezielle Reise oder ein Abenteuer, das du planst?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie gehst du mit Situationen um, die deinen Werten widersprechen?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Wie überwindest du Selbstzweifel?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Welche Techniken oder Methoden nutzt du für deine persönliche Organisation und Produktivität?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Hast du Pläne für eine Weiterbildung oder zusätzliche Qualifikationen?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Was tust du, um dich nach einem langen Arbeitstag zu entspannen?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Welche Rolle spielen Freunde und Familie bei deiner persönlichen Entwicklung?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie definierst du ein gutes Team und was trägst du zu einem solchen bei?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie setzt du persönliche Ziele und verfolgst diese?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie beeinflussen deine Überzeugungen deine Entscheidungen im Alltag?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Welche Rolle spielen Traditionen und Rituale in deinem Leben?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Gibt es ein Ereignis in deiner Vergangenheit, das dich heute noch zum Lächeln bringt?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Planst du, in den nächsten Jahren ein neues Sprache zu lernen? Wenn ja, welche?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie stehst du zu Veränderungen und Unsicherheiten im Leben?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Wie hat sich ein Fehler bei der Arbeit positiv auf deine Karriere ausgewirkt?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Wie definierst du Erfolg in deinem Beruf?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Was denkst du über die Bedeutung von Arbeit im Leben eines Menschen?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Was war eine Initiative oder ein Projekt, das du am Arbeitsplatz gestartet hast?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Welches Ereignis in der jüngsten Vergangenheit hat dich besonders bewegt oder inspiriert?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Gibt es ein spezielles Hobby, das du in der Zukunft intensiver betreiben möchtest?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Welches Buch hat deine Sicht auf die Welt verändert?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Gibt es eine Kunstform, die dich besonders anspricht?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Erzähle von einem Moment, in dem du besonders stolz auf dein Team warst.",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Wie definierst du 'Fortschritt' in Bezug auf persönliches Wachstum und Gesellschaft?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Was war das interessanteste Projekt, an dem du bisher gearbeitet hast?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Wie planst du, deine Work-Life-Balance in Zukunft zu verbessern?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Was bedeutet 'Verantwortung' für dich in verschiedenen Aspekten deines Lebens?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Welches Ereignis hat dich zum Lachen gebracht, selbst wenn du es nicht solltest?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Welches Risiko bist du zuletzt eingegangen und was hast du daraus gelernt?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Welche Auswirkungen hat deine Arbeit auf deine Lebensziele?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Gibt es ein Erlebnis, das deine Sichtweise auf die Welt verändert hat?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Gibt es ein Tier, zu dem du eine besondere Verbindung fühlst? Warum?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Gibt es eine besondere Tradition oder ein Fest, das du jedes Jahr feierst?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Wie gehst du mit Stress und Druck um?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Welches ist dein Lieblingscafé oder -restaurant und was magst du daran?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Welche neue Fähigkeit möchtest du im kommenden Jahr lernen?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Was war das letzte Konzert oder Event, das du besucht hast?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Was motiviert dich, auch an schwierigen Tagen zur Arbeit zu gehen?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Welche kleine tägliche Handlung hat einen großen Einfluss auf dein Leben?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Welches Projekt würdest du gerne noch einmal bearbeiten, mit dem Wissen, das du heute hast?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Was tust du, um geistig und körperlich fit zu bleiben?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Welches ist dein Lieblingsort in der Natur, und was zieht dich dorthin?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Gibt es eine Sportart oder körperliche Aktivität, die du besonders gerne machst?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Wie gehst du mit Konflikten im Arbeitsumfeld um?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Gibt es eine Fähigkeit, die du in der Vergangenheit gelernt hast, die unerwartet nützlich wurde?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Was ist für dich das Beste am Reisen?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Gibt es eine Begegnung mit einer Person, die dich inspiriert oder beeinflusst hat?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Wie hältst du dich in deinem Fachbereich auf dem Laufenden?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Gibt es ein Talent oder eine Fähigkeit, die du erst spät entdeckt hast?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was war der beste Rat, den du je bekommen hast, und von wem?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was war die größte Herausforderung, die du in deinem persönlichen Leben gemeistert hast?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie beeinflusst deine Kultur oder Herkunft deine Sicht auf die Welt?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Gibt es ein soziales oder politisches Thema, das dir besonders am Herzen liegt?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Was hat dich dazu inspiriert, deinen aktuellen Berufsweg einzuschlagen?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Was war das aufregendste Abenteuer oder die Reise, die du unternommen hast?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Wie gehst du mit Kritik um und was lernst du daraus?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Gibt es eine Angewohnheit, die du erfolgreich geändert hast? Wie hast du das gemacht?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Welche neue Fertigkeit oder welches neue Hobby möchtest du als Nächstes lernen?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Gibt es ein Projekt oder eine Aktivität, die du in deiner Freizeit gerne machst?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Was würdest du anders machen, wenn du deine Karriere noch einmal von vorne beginnen könntest?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Was inspiriert dich in deinem Leben am meisten?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Gibt es eine Familientradition, die du besonders schätzt?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Wo siehst du dich in zehn Jahren, und was hoffst du bis dahin erreicht zu haben?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Welche Reise hat den größten Eindruck bei dir hinterlassen und warum?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Wie hat sich deine Arbeitsweise im Laufe der Jahre verändert?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Welche Rolle spielt Kreativität in deinem Beruf und wie förderst du sie?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie sieht deine Strategie für die persönliche und berufliche Entwicklung in den nächsten Jahren aus?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Gibt es eine Fähigkeit oder ein Wissen, das du gerne erwerben würdest, um deine Karriere voranzutreiben?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Welche Faktoren motivieren dich am meisten in deiner Arbeit?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie wichtig ist dir die Meinung anderer über dich?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Welche kreative Tätigkeit gibt dir am meisten Energie?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Was ist deine früheste Kindheitserinnerung?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Wie gehst du mit Meinungsverschiedenheiten im Team um?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Gibt es gesellschaftliche oder ehrenamtliche Projekte, bei denen du dich engagieren möchtest?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie planst du, deine Beziehungen zu Familie und Freunden in der Zukunft zu gestalten?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Gibt es ein soziales oder politisches Anliegen, für das du dich stärker einsetzen möchtest?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Was bedeutet 'Erfolg' für dich persönlich?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Erzähle von einem Missverständnis, das zu einer lustigen Situation führte.",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Wie wichtig ist dir Nachhaltigkeit in deinem Alltag?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Welche Sprache würdest du gerne lernen und warum?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Hast du ein Lieblingszitat aus einem Buch oder Film, das dich inspiriert?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Welche neuen Fähigkeiten möchtest du in der nahen Zukunft erlernen?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie planst du, deine Gesundheit und Fitness langfristig zu erhalten oder zu verbessern?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Gibt es ein Land, in dem du gerne leben oder arbeiten würdest?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie hat sich deine Persönlichkeit in den letzten Jahren verändert?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie bleibst du in deinem Berufsfeld auf dem Laufenden und weiterhin motiviert?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie wichtig ist dir die Work-Life-Balance und wie erreichst du sie?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie stellst du dir das perfekte Gleichgewicht zwischen Berufs- und Privatleben vor?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Was hältst du für die größte Herausforderung unserer Zeit?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Was war der mutigste Schritt, den du in deinem Leben gemacht hast?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was ist das beste Feedback, das du je von einem Kollegen oder Vorgesetzten erhalten hast?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Was war bisher dein größter beruflicher Erfolg und warum?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie hat ein Erfolg bei der Arbeit deine Perspektive auf deine Karriere oder dein Leben verändert?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Wie wichtig ist dir die Gemeinschaft und das Gefühl der Zugehörigkeit?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Welches Buch oder welcher Film hat dich tief berührt und auf welche Weise?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Welche Tradition möchtest du in der Zukunft für deine Familie oder Freunde schaffen?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was motiviert dich, in schwierigen Arbeitsphasen durchzuhalten?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Wie hat ein Mentor oder eine Führungskraft deine berufliche Entwicklung beeinflusst?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Wie trägst du zu einer positiven Arbeitskultur bei?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Was tust du, um neue Kollegen am Arbeitsplatz willkommen zu heißen?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Wie findest du Balance zwischen Arbeit, Freizeit und persönlichen Interessen?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Welche Veränderung in deinem Arbeitsumfeld hat dir geholfen, produktiver zu sein?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Gibt es ein historisches Ereignis, das du miterlebt hast und das dich besonders geprägt hat?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Gibt es eine Person, die du als Vorbild betrachtest? Was bewunderst du an ihr?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Wie wichtig ist dir persönliche Entwicklung und Selbstreflexion?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Welche Ratschläge würdest du jemandem geben, der gerade am Anfang seiner Karriere steht?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Was bedeutet 'Freiheit' für dich in deinem Leben?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Wie findest du Motivation, wenn dir danach ist, aufzugeben?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Was ist dein Traumprojekt, das du gerne realisieren möchtest?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie möchtest du deine finanzielle Situation in den nächsten Jahren verbessern?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Was war der entscheidende Moment, der dich zu deiner jetzigen Karriere geführt hat?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie gehst du mit Rückschlägen oder Misserfolgen in deiner Karriere um?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Gibt es ein Zitat oder einen Leitspruch, nach dem du lebst?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Was bedeutet für dich Selbstfürsorge und wie setzt du sie um?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Welche beruflichen Risiken hast du eingegangen und wie haben sie sich ausgezahlt?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Gibt es eine Lebenskompetenz, die du in der Zukunft erlernen möchtest?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie gehst du mit Ungerechtigkeit in der Gesellschaft um?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Gibt es ein Ehrenamt oder eine freiwillige Tätigkeit, die dir am Herzen liegt?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Wie stehst du zu zwischenmenschlichen Beziehungen und Vertrauen?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Wie wichtig ist dir Authentizität in der Kommunikation mit anderen?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Was bedeutet 'Zuhause' für dich?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Was war das lustigste Erlebnis, das du je hattest?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Kannst du eine besonders herausfordernde Situation bei der Arbeit beschreiben und wie du sie gemeistert hast?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Planst du, in den nächsten Jahren eine Familie zu gründen oder zu erweitern?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Welche weiche Fähigkeit hältst du für am wichtigsten in deinem Berufsfeld?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Welchen Einfluss hat deine Karriere auf deine persönliche Entwicklung gehabt?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Was ist das Wichtigste, das du aus einem beruflichen Fehlschlag gelernt hast?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Welche beruflichen Ziele hast du für das kommende Jahr gesetzt?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Was hat dir geholfen, durch schwierige Zeiten zu kommen?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie gehst du mit Misserfolgen um und was lernst du daraus?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie möchtest du dein soziales Netzwerk in den nächsten Jahren erweitern oder vertiefen?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Was war der wichtigste Wendepunkt in deiner Karriere?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Welche Rolle spielst du normalerweise in Teamprojekten?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Planst du, in naher Zukunft umzuziehen oder dein Wohnsituation zu verändern?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Gibt es eine berufliche Umorientierung, die du in Betracht ziehst?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Gibt es eine Person, die eine entscheidende Rolle in deiner beruflichen Entwicklung gespielt hat?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Was war eine unerwartete Herausforderung in deiner Karriere und wie bist du damit umgegangen?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Gibt es eine neue Technologie oder ein Feld, in das du dich einarbeiten möchtest?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie planst du, deine spirituelle oder philosophische Entwicklung voranzutreiben?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie hat sich deine Sicht auf deine Arbeit im Laufe der Zeit verändert?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Welche Rolle spielt Integrität in deinem Leben und Beruf?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Was ist das schönste Geschenk, das du je erhalten oder gemacht hast?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was ist dein Lieblingsfest oder Feiertag, und wie feierst du ihn?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Was war ein Moment der völligen Freiheit und Unbeschwertheit in deinem Leben?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was ist die wertvollste Lektion, die du aus einer Herausforderung gelernt hast?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Gibt es eine bestimmte Kultur oder ein Land, das dich fasziniert? Warum?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Welche Rolle spielt lebenslanges Lernen für dich?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Gibt es eine Technik oder Methode, die du bei der Arbeit eingeführt hast und die sich als sehr wertvoll erwiesen hat?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Wie hat ein Teamerfolg deine Sicht auf Teamarbeit verändert?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Was war der stolzeste Moment in deinem Leben?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Welches technische Gerät oder welche App kannst du nicht mehr missen?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Wie gehst du mit Fehlern und Scheitern um?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Wie priorisierst du Aufgaben, wenn alles dringend ist?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Planst du, in naher Zukunft ein eigenes Unternehmen zu gründen oder selbstständig zu arbeiten?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Erzähle von einem Moment, der dein Leben verändert hat.",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Welches Museum oder welche Kunstausstellung hat bei dir einen bleibenden Eindruck hinterlassen?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Welche drei Werte sind dir in deinem Leben am wichtigsten?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Gibt es eine persönliche Herausforderung, die du dir vorgenommen hast zu meistern?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Was ist eine Kindheitserinnerung, die dich heute noch beeinflusst?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was war die wertvollste Kritik, die du jemals erhalten hast, und wie hast du darauf reagiert?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Beschreibe eine Zeit, in der du über deine Grenzen hinauswachsen musstest, um ein Ziel zu erreichen.",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Hast du ein Lieblingsspiel oder eine Freizeitaktivität, die du gerne mit anderen teilst?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Welche Veränderungen möchtest du in deinem persönlichen Leben in den nächsten Jahren sehen?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Wie wichtig ist dir Anerkennung für deine Arbeit und wie möchtest du anerkannt werden?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Gibt es eine Gewohnheit, die du dir gerne aneignen würdest?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie gehst du mit Stress und Druck am Arbeitsplatz um?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Hast du eine Sammelleidenschaft? Was sammelst du?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Was machst du am liebsten, um nach einem stressigen Tag abzuschalten?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Was inspiriert dich und wie integrierst du diese Inspiration in dein Leben?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie gehst du mit Kritik an deiner Arbeit um?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Gibt es ein Hobby, das du schon immer ausprobieren wolltest?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Welches Ereignis hat in letzter Zeit am meisten zu deiner persönlichen Entwicklung beigetragen?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Was war als Kind dein Traumberuf, und wie siehst du das heute?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was ist deine größte Leidenschaft und wie verfolgst du sie?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Welche Person aus der Geschichte würdest du gerne treffen und warum?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was motiviert dich, anderen Menschen zu helfen?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Gibt es ein Buch, das du schreiben, oder ein Kunstprojekt, das du realisieren möchtest?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Welche beruflichen Ziele setzt du dir für die nächsten fünf Jahre?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Welches Abenteuer steht noch auf deiner Liste, und was hält dich zurück?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Welche Entscheidung in deinem Leben würdest du als Wendepunkt betrachten?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Gibt es eine spezielle Kultur, die du durch Reisen oder Freunde kennengelernt hast und die dich beeinflusst hat?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Wie wichtig ist dir die Meinung deiner Kollegen zu deiner Arbeit?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie definierst du eine 'gute' Person zu sein?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Wie definierst du persönlichen Erfolg?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Gibt es ein Projekt oder eine Aktivität, die dir persönliches Wachstum gebracht hat?",
+		"category": "personal_development"
+	},
+	{
+		"question": "Wie möchtest du in der Zukunft zu deiner Gemeinschaft oder Gesellschaft beitragen?",
+		"category": "future_plans"
+	},
+	{
+		"question": "Gibt es eine Fähigkeit, die du dir am Arbeitsplatz selbst beigebracht hast?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Was hältst du für unverzichtbar für ein erfülltes Leben?",
+		"category": "personal_values_and_beliefs"
+	},
+	{
+		"question": "Welches Buch, Film oder welche Serie hat dich zuletzt begeistert und warum?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Was ist für dich das Schwierigste an deiner Arbeit und wie meisterst du es?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Welche Art von Musik hörst du am liebsten, und was bedeutet sie dir?",
+		"category": "interests_and_passions"
+	},
+	{
+		"question": "Gibt es ein besonderes Ereignis, das dich und deine Familie oder Freunde näher zusammengebracht hat?",
+		"category": "memories_and_stories"
+	},
+	{
+		"question": "Was ist das wichtigste, das du in deiner Karriere gelernt hast?",
+		"category": "career_and_motivation"
+	},
+	{
+		"question": "Wie bewältigst du Zeiten hoher Arbeitsbelastung?",
+		"category": "work_experiences"
+	},
+	{
+		"question": "Gibt es eine bestimmte Erfahrung oder ein Ereignis, auf das du dich in der Zukunft freust?",
+		"category": "future_plans"
+	}
+]
