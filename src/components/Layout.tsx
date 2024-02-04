@@ -41,7 +41,7 @@ export default function Layout({
           />
           <link rel='manifest' href='/site.webmanifest' />
           <meta name='msapplication-TileColor' content='#da532c' />
-          <meta name='theme-color' content='#ffffff' />
+          <meta name='theme-color' content='#121212' />
           <link
             rel='stylesheet'
             href={`/index.css?${process.env.BUILD_TIME}`}
@@ -56,6 +56,7 @@ export default function Layout({
               <Information />
             </div>
           </header>
+
           {children}
 
           <footer class='footer'>
