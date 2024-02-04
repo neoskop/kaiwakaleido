@@ -1798,5 +1798,385 @@
   {
     "question": "Wie passt du deine Karriereziele an, wenn sich deine Lebensumstände ändern?",
     "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche entscheidende Begegnung hat deine berufliche Richtung beeinflusst?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie bist du mit einer unerwarteten Karrieremöglichkeit umgegangen?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Welches Buch hat deine Perspektive auf persönliche Entwicklung am meisten beeinflusst?",
+    "category": "personal_development"
+  },
+  {
+    "question": "In welchem Bereich deines Lebens möchtest du in fünf Jahren am meisten gewachsen sein?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welcher persönliche Wert ist dir in zwischenmenschlichen Beziehungen am wichtigsten?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Welches Lied weckt in dir starke Emotionen und warum?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welches historische Ereignis hättest du gerne miterlebt?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welches Feedback von einem Kollegen hat dich bisher am stärksten motiviert?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Was ist das größte Risiko, das du im Namen deiner Überzeugungen eingegangen bist?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Welches Ziel, von dem du träumst, scheint unerreichbar, und was hält dich zurück?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welches Museum weltweit würdest du gerne besuchen und warum?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welche Sprache möchtest du lernen, um ein literarisches Werk in seiner Originalsprache zu lesen?",
+    "category": "personal_development"
+  },
+  {
+    "question": "In welchem Moment hast du die Bedeutung von Teamarbeit wirklich verstanden?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Wie gehst du vor, wenn du vor einer moralischen Entscheidung am Arbeitsplatz stehst?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie hat eine kulturelle Erfahrung deine Sichtweise geändert?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Was wäre dein nächstes großes Abenteuer, wenn Zeit und Geld keine Rolle spielen würden?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welche Erfahrung hat dich gelehrt, was echtes Glück bedeutet?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Gibt es eine spezifische Technik oder Routine, die du eingeführt hast, um produktiver zu sein?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Was ist die wichtigste Lektion, die du aus einem Konflikt am Arbeitsplatz gelernt hast?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Tradition würdest du gerne in deiner eigenen Familie etablieren?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Wie trägst du zur Erhaltung der Umwelt bei?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Wenn du eine Zeitreise unternehmen könntest, welche Epoche würdest du besuchen und warum?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Was bedeutet dir die Kunst des Schreibens in deinem Leben?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welches historische Ereignis würdest du ändern, wenn du könntest, und warum?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Wie definierst du Erfolg in zwischenmenschlichen Beziehungen?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Wie gehst du mit der sich ständig verändernden technologischen Landschaft in deinem Berufsfeld um?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Was würdest du gerne in der Welt verändern, wenn du die Macht dazu hättest?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welche Rolle spielt Humor in deinem Alltag und in deiner Arbeitsweise?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welche Person, lebend oder tot, würde dir die wertvollsten Lebenslektionen vermitteln?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welches Erlebnis hat deine Passion für dein Hobby oder deine Interessen entfacht?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "An welchem Projekt arbeitest du, das außerhalb deiner beruflichen Tätigkeiten liegt?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Wie hat ein zufälliges Treffen dein Leben in eine unerwartete Richtung gelenkt?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welche Fertigkeit oder welches Wissen möchtest du an die nächste Generation weitergeben?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welche technologische Entwicklung hoffst du noch zu erleben?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Was war die härteste Entscheidung, die du in Bezug auf deine Karriere treffen musstest?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welches Naturphänomen würdest du gerne einmal persönlich erleben?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Wie hat deine Herkunft deine Perspektive auf die Welt beeinflusst?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Wie hältst du dich motiviert, wenn du mit Rückschlägen in deinem Leben konfrontiert wirst?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Was ist die bedeutendste kulturelle Erfahrung, die du gemacht hast?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welche persönliche Errungenschaft hat dir die meiste Zufriedenheit gebracht?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welche Lebenserfahrung würde dazu beitragen, dass du in deinem Berufsfeld erfolgreicher bist?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Neuentdeckung oder welches neue Hobby hat dein Leben in letzter Zeit bereichert?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welche Veränderungen in der Gesellschaft hoffst du in den nächsten Jahren zu sehen?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Was war die inspirierendste Reise, die du jemals unternommen hast?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welches Projekt oder welche Idee hast du, für die du Unterstützung suchst?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie beeinflusst die Musik dein Leben und deine Arbeit?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welche spezielle Fähigkeit möchtest du entwickeln, um deinen persönlichen Horizont zu erweitern?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welche neuen Technologien oder Innovationen faszinieren dich am meisten und warum?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welches Land hat dich auf deinen Reisen am meisten inspiriert und warum?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Wie definierst du geistige Fitness, und welche Aktivitäten trägst du dazu bei?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welche historische Veränderung würdest du gerne miterleben?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Auf welche Weise machst du deine Umgebung zu einem besseren Ort?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Wie hat ein Ereignis in der Weltgeschichte deine Sichtweisen oder Überzeugungen beeinflusst?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welche beruflichen Traditionen findest du wichtig, und wie setzt du sie um?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welches Ereignis hat am meisten dazu beigetragen, dass du die Person bist, die du heute bist?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welche neuen Techniken oder Methoden möchtest du in deinem Fachbereich erforschen?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welchen Einfluss hoffst du mit deiner Arbeit zu hinterlassen?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Begegnung hat eine tiefgreifende Veränderung in deiner Lebensführung bewirkt?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welche soziale Bewegung oder welches soziale Projekt möchtest du in der Zukunft unterstützen?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Wie trägst du dazu bei, diplomatische Beziehungen in deinem unmittelbaren Umfeld zu pflegen?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Wenn du eine biographische Veröffentlichung über ein Vorbild in deinem Leben schreiben würdest, wer wäre es und warum?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Forschungsarbeit oder Studie hat dir neue Einblicke in deinem Berufsfeld gegeben?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Wie hat das Überwinden eines großen Hindernisses deinen Charakter geformt?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welche unerwartete Wendung in deinem Leben war im Nachhinein ein Segen?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welche künftige technologische Entwicklung könnte deiner Meinung nach die größten gesellschaftlichen Veränderungen herbeiführen?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welche Verhalten oder Überzeugung hast du kürzlich geändert, und was hat diese Änderung bewirkt?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Welche gemeinnützige Organisation würdest du gründen, wenn du die Mittel dazu hättest?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Auf welche Weise trägst du zu einer Kultur der Offenheit und Inklusion bei deiner Arbeit bei?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Welches Zitat oder welche philosophische Weisheit hat dir geholfen, schwierige Zeiten zu überstehen?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welches Erlebnis hat deine Einstellung zum Thema 'Vergebung' geprägt?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welches Ereignis hat dich dazu inspiriert, dich für deine Gemeinschaft oder die Gesellschaft einzusetzen?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Wie hat sich ein Misserfolg oder Rückschlag letztendlich als wertvolle Lektion erwiesen?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welche kulturelle Tradition aus einem anderen Land hast du übernommen, und wie hat sie dein Leben bereichert?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welches Erlebnis hat dich gelehrt, was echte Freundschaft bedeutet?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Welche berufliche Herausforderung hat dich am meisten geprägt, und wie bist du damit umgegangen?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Welches kreative Projekt oder Vorhaben hast du in der Vergangenheit aufgeschoben und möchtest nun umsetzen?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Wie hat ein Buch oder Film deine Sicht auf persönliche Beziehungen oder die Liebe verändert?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welche Lebenserfahrung hat dich dazu motiviert, deine Komfortzone zu verlassen?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Gibt es eine historische Persönlichkeit, deren Lebensweise oder Philosophie du besonders bewunderst?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Auf welche Weise suchst du nach geistiger Erleuchtung oder spirituellem Wachstum?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Welche wissenschaftliche Entdeckung oder Erfindung wünschst du dir für die Zukunft?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Wie gestaltest du bewusst Momente der Stille oder Meditation in deinem Alltag?",
+    "category": "personal_development"
+  },
+  {
+    "question": "Welches soziale Problem betrifft dich persönlich, und wie engagierst du dich dafür?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Welche Sportart oder körperliche Aktivität hat dir geholfen, persönliche Grenzen zu überwinden?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welche berufliche Veränderung hast du vorgenommen, die dein Leben zum Besseren gewendet hat?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welches Erlebnis hat dir die Bedeutung von gesundem Leben und Ernährung nähergebracht?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Auf welche Art und Weise hast du jemandem in deinem Umfeld kürzlich geholfen?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Welche Auswirkungen hattest du bisher in deiner Karriere auf deinen Arbeitsbereich oder die Gesellschaft?",
+    "category": "work_experiences"
+  },
+  {
+    "question": "Was bedeutet für dich 'Erfolg' in einem umfassenderen, gesellschaftlichen Kontext?",
+    "category": "personal_values_and_beliefs"
+  },
+  {
+    "question": "Welches persönliche Opfer hast du bringen müssen, um zu erreichen, wo du heute bist?",
+    "category": "memories_and_stories"
+  },
+  {
+    "question": "Wie beeinflusst Kunst dein Leben, und auf welche Weise bringst du dich selber kreativ zum Ausdruck?",
+    "category": "interests_and_passions"
+  },
+  {
+    "question": "Welche philosophische Frage oder Thema treibt dich am meisten um, und warum?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Was ist dein größter unerfüllter Traum, und was planst du, um ihn zu verwirklichen?",
+    "category": "future_plans"
+  },
+  {
+    "question": "Welche ungelöste Frage oder Herausforderung in deinem Fachgebiet fasziniert dich am meisten?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Fertigkeit außerhalb deines beruflichen Umfelds möchtest du in der Zukunft meistern?",
+    "category": "personal_development"
   }
 ]
