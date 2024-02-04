@@ -11,14 +11,12 @@
   "scripts": {
     "start": "jeasx start",
     "build": "jeasx build",
-    "dev": "jeasx dev ecosystem.config.cjs",
-    "scss": "sass src/styles/main.scss:src/browser/index.css --no-source-map"
+    "dev": "jeasx dev"
   },
   "dependencies": {
     "@alpinejs/collapse": "3.13.5",
     "alpinejs": "3.13.5",
-    "jeasx": "0.2.2",
-    "sass": "1.70.0"
+    "jeasx": "0.2.2"
   },
   "engines": {
     "node": "20.x"
