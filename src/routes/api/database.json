@@ -1678,5 +1678,125 @@
   {
     "question": "Gibt es ein Kunstwerk (Bild, Musikstück, Film), das dein Leben beeinflusst hat? Wie?",
     "category": "memories_and_stories"
+  },
+  {
+    "question": "Welche berufliche Entscheidung würdest du rückblickend anders treffen?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie motivierst du dich selbst, wenn du vor einer besonders herausfordernden Aufgabe stehst?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welches Buch oder welcher Artikel hat deinen beruflichen Weg am meisten beeinflusst?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Gibt es einen Bereich in deiner Branche, den du gerne revolutionieren würdest?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie gehst du mit der Angst vor Veränderung im Berufsleben um?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche beruflichen Ziele erscheinen dir heute weniger wichtig als früher?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie definierst du eine ausgewogene Work-Life-Integration für dich persönlich?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Was wäre dein Rat an jemanden, der eine Karriere in deinem Fachgebiet anstrebt?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie hat sich deine Motivation im Laufe deiner Karriere verändert?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Fähigkeiten denkst du, sind in den nächsten Jahren in deinem Berufsfeld am wichtigsten?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Gibt es eine Person in deinem Arbeitsumfeld, die dich besonders inspiriert? Warum?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welches Projekt würdest du gerne in deiner Karriere umsetzen, wenn Ressourcen keine Rolle spielen würden?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie wichtig ist dir die Möglichkeit, in deinem Beruf kreativ zu sein?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Was hältst du für die größte Herausforderung in deiner aktuellen beruflichen Situation?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Rolle spielt lebenslanges Lernen für deinen beruflichen Erfolg?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie gehst du mit Feedback um, das nicht deinen Erwartungen entspricht?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welchen Einfluss hat deine Arbeit auf andere Aspekte deines Lebens?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie stellst du sicher, dass du in deinem Berufsfeld wettbewerbsfähig bleibst?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Was war ein unerwarteter Wendepunkt in deiner Karriere und wie bist du damit umgegangen?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche beruflichen Risiken hast du bereut, nicht eingegangen zu sein?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie findest du die Balance zwischen Perfektionismus und Effizienz bei der Arbeit?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Was motiviert dich, in einem hochdynamischen und sich schnell verändernden Arbeitsumfeld zu arbeiten?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie hat sich deine Einstellung zu Führung und Management im Laufe deiner Karriere entwickelt?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche unkonventionellen Methoden nutzt du, um berufliche Herausforderungen zu meistern?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Bedeutung hat die Arbeitskultur für deine berufliche Zufriedenheit?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie gehst du mit der Notwendigkeit um, ständig neue Technologien in deinem Beruf zu erlernen?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Was war die beste Entscheidung, die du in Bezug auf deine Karriereentwicklung getroffen hast?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie verändert sich deine Karrierevorstellung mit zunehmendem Alter?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Welche Auswirkungen hat deine Karriere auf deine persönlichen Beziehungen?",
+    "category": "career_and_motivation"
+  },
+  {
+    "question": "Wie passt du deine Karriereziele an, wenn sich deine Lebensumstände ändern?",
+    "category": "career_and_motivation"
   }
 ]
