@@ -1,5 +1,5 @@
 import { Content } from '../components/Content';
-import { Game } from '../components/Game/Game';
+import { Game } from '../components/Game';
 import { Hint } from '../components/Hint';
 import Layout from '../components/Layout';
 import { RouteProps } from '../types/types';
