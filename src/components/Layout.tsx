@@ -1,7 +1,6 @@
 import { Logo } from './Logo';
 import { version } from '../../package.json';
 import { Information } from './Information';
-import { Legal } from './Legal';
 
 type LayoutProps = {
   title?: string;
@@ -59,7 +58,11 @@ export default function Layout({
           {children}
 
           <footer class='footer'>
-            <Legal />
+            <a href='https://neoskop.de/impressum'>Impressum</a> |
+            <a href='https://neoskop.de/datenschutz'>Datenschutz</a> |
+            <a href={`https://github.com/NoelBank/kaiwakaleido`}>
+              Version {version}
+            </a>
           </footer>
         </body>
       </html>
