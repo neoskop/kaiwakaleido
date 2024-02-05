@@ -13,7 +13,7 @@ export const Hint = () => {
           </svg>
         </summary>
 
-        <div x-show='open' class='hints'>
+        <div class='hints'>
           <p>
             Ich empfehle, dass ihr euch Zeit für die Beantwortung nehmt und euch
             die Fragen gegenseitig steilt. Habt Mut zum Abschweifen!
