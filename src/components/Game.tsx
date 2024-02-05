@@ -6,7 +6,7 @@ export const Game = () => {
   return (
     <form class='game' method='post'>
       <div class='game-question'>
-        <h1 class='game-title'>Deine Frage:</h1>
+        <h1 class='game-title'>Deine Frage</h1>
         <div class='game-question-text'>
           <div class='category'>
             <span>{category}</span>
