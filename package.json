@@ -1,6 +1,6 @@
 {
   "name": "kaiwakaleido",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": {
     "name": "Noel Bank",
@@ -14,7 +14,7 @@
     "dev": "jeasx dev"
   },
   "dependencies": {
-    "jeasx": "0.3.0"
+    "jeasx": "0.3.1"
   },
   "engines": {
     "node": "20.x"
