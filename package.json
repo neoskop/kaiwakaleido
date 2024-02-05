@@ -1,12 +1,11 @@
 {
   "name": "kaiwakaleido",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
-  "author": {
-    "name": "Noel Bank",
-    "url": "https://github.com/noelbank",
-    "email": "info@nbank.dev"
-  },
+  "author": "Neoskop GmbH <devs@neoskop.de>",
+  "contributors": [
+    "Noel Bank <bank@neoskop.de>"
+  ],
   "type": "module",
   "scripts": {
     "start": "jeasx start",
