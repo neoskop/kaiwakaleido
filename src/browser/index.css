@@ -1,30 +1,43 @@
 /* Font's */
-
 @font-face {
-  font-family: 'Inter';
-  src: url('/fonts/Inter-Light.ttf') format('ttf');
+  font-family: 'Jost';
+  src: url('/fonts/Jost-Light.ttf') format('ttf');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Inter';
-  src: url('/fonts/Inter-Regular.ttf') format('ttf');
+  font-family: 'Jost';
+  src: url('/fonts/Jost-Regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Inter';
-  src: url('/fonts/Inter-Medium.ttf') format('ttf');
+  font-family: 'Jost';
+  src: url('/fonts/Jost-Medium.ttf') format('ttf');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 
 /* Global */
+
+:root {
+  --background-color: #fafafa;
+  --text-color: #121212;
+  --accent-color: #fa9678;
+  --game-background: #eaeaea;
+
+  @media (prefers-color-scheme: dark) {
+    --background-color: #121212;
+    --text-color: #fff;
+    --accent-color: #50bef0;
+    --game-background: #2a2a2a;
+  }
+}
 
 *,
 *::before,
@@ -40,8 +53,8 @@ html,
 body {
   -webkit-font-smoothing: antialiased;
   line-height: 1.5;
-  font-family: 'Inter', Helvetica, sans-serif;
-  background-color: #121212;
+  font-family: 'Jost', Helvetica, sans-serif;
+  background-color: var(--background-color);
 }
 
 a {
@@ -65,7 +78,7 @@ a {
   width: fit-content;
   z-index: 2;
   position: relative;
-  color: #fff;
+  color: var(--text-color);
 
   &::before {
     content: '';
@@ -75,7 +88,7 @@ a {
     width: 100%;
     height: 25%;
     z-index: -1;
-    background-color: #50bef0;
+    background-color: var(--accent-color);
   }
 }
 
@@ -124,7 +137,7 @@ a {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-  color: #fff;
+  color: var(--text-color);
 
   .neoskop-logo,
   .kaiwa-logo {
@@ -152,12 +165,12 @@ a {
   justify-content: center;
   align-items: center;
   gap: 0.5rem;
-  color: #fff;
+  color: var(--text-color);
   font-size: 0.875rem;
 
   a {
     text-decoration: none;
-    color: #fff;
+    color: var(--text-color);
   }
 }
 
@@ -183,6 +196,7 @@ a {
   gap: 0.5rem;
   position: relative;
   z-index: 10;
+  cursor: pointer;
 
   border: none;
   background-color: transparent;
@@ -196,7 +210,7 @@ a {
   width: fit-content;
   z-index: 2;
   position: relative;
-  color: #fff;
+  color: var(--text-color);
 
   &::before {
     content: '';
@@ -206,7 +220,7 @@ a {
     width: 100%;
     height: 25%;
     z-index: -1;
-    background-color: #50bef0;
+    background-color: var(--accent-color);
   }
 }
 
@@ -215,6 +229,7 @@ a {
   transform: rotate(180deg);
   height: 32px;
   width: 32px;
+  color: var(--accent-color);
 }
 
 .hint-base {
@@ -239,7 +254,7 @@ a {
 
 .content {
   min-height: calc(100svh - 85px - 53px);
-  color: #fff;
+  color: var(--text-color);
   padding: 0 1rem 1.5rem;
   gap: 2rem;
 
@@ -269,21 +284,21 @@ a {
   padding: 2rem 0.75rem 1rem;
   border-radius: 0.5rem;
   width: 100%;
-  background-color: #2a2a2a;
+  background-color: var(--game-background);
 
-  font-size: 2.25rem;
+  font-size: 2rem;
   text-align: center;
-  font-family: monospace;
   line-height: 1.4;
 
   word-break: break-word;
 }
 
 .category {
-  color: #50bef0;
+  color: var(--accent-color);
   text-transform: uppercase;
-  font-size: 0.75rem;
+  font-size: 1rem;
   line-height: 1.2;
+  font-family: monospace;
 }
 
 .game-title {
@@ -302,15 +317,17 @@ a {
     width: 100%;
     height: 25%;
     z-index: -1;
-    background-color: #50bef0;
+    background-color: var(--accent-color);
   }
 }
 
 .game-button {
-  border: 2px solid #fff;
+  border: 2px solid var(--text-color);
   padding: 0.75rem 1.25rem;
   background-color: transparent;
-  color: #fff;
+  color: var(--text-color);
   font-weight: 500;
   border-radius: 0.5rem;
+  font-size: 0.875rem;
+  cursor: pointer;
 }

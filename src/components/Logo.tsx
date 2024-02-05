@@ -1,6 +1,6 @@
 export const Logo = () => {
   return (
-    <a class='logo' href='/'>
+    <a class='logo' href='/' title='Zurück zur Startseite'>
       <svg viewBox='0 0 425.2 117.86' class='neoskop-logo'>
         <title>Ein Textbasiertes Logo auf dem "Neoskop" steht</title>
         <g fill='currentColor'>
