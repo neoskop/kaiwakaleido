@@ -1,5 +1,4 @@
-import { FastifyReply } from 'fastify';
-import database from './database.json';
+import database from './../database.json';
 
 type Categorys =
   | 'career_and_motivation'
@@ -20,13 +19,13 @@ const CATEGORY_NAMES: Record<Categorys, string> = {
   memories_and_stories: 'Erinnerungen und Geschichten',
 };
 
-export default async function Question({ reply }: { reply: FastifyReply }) {
-  reply.header('Content-Type', 'application/json');
-
+const getRandomQuestion = () => {
   const data = database[Math.floor(Math.random() * database.length)];
 
-  return JSON.stringify({
+  return {
     question: data.question,
     category: CATEGORY_NAMES[data.category],
-  });
-}
+  };
+};
+
+export default getRandomQuestion;

@@ -14,8 +14,6 @@
     "dev": "jeasx dev"
   },
   "dependencies": {
-    "@alpinejs/collapse": "3.13.5",
-    "alpinejs": "3.13.5",
     "jeasx": "0.3.0"
   },
   "engines": {

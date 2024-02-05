@@ -1,42 +1,23 @@
-export const Game = () => {
-  return (
-    <form
-      class='game'
-      method='post'
-      x-data='{
-      buttonText: "Lass uns Loslegen!",
-      status: "initial",
-      response:{
-        question: "Starte spannende Gespräche mit nur einem Klick!",
-        category: ""
-      },
-      async load() {
-        if (this.status === "loading") return
+import getRandomQuestion from '../helpers/getRandomQuestion';
 
-        this.status = "loading"
-        this.buttonText = "Suche nach einer neuen Frage..."
-        this.response = await (await fetch(`/api/question.json`)).json()
-        this.status = "initial"
-        this.buttonText = "Weiter mit der nächsten Frage"
-      },
-    }'
-    >
+export const Game = () => {
+  const { category, question } = getRandomQuestion();
+
+  return (
+    <form class='game' method='post'>
       <div class='game-question'>
         <h1 class='game-title'>Deine Frage:</h1>
         <div class='game-question-text'>
           <div class='category'>
-            <span x-text='response.category' />
+            <span>{category}</span>
           </div>
-          <p x-text='response.question' />
+          <p>{question}</p>
         </div>
       </div>
 
-      <button
-        class='game-button'
-        x-on:click='load()'
-        type='button'
-        x-text='buttonText'
-      />
+      <button class='game-button' type='submit'>
+        Weiter mit der nächsten Frage
+      </button>
     </form>
   );
 };
