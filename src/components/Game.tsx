@@ -11,7 +11,7 @@ export const Game = () => {
           <div class='category'>
             <span>{category}</span>
           </div>
-          <p>{question}</p>
+          <p class='question'>{question}</p>
         </div>
       </div>
 

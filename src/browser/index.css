@@ -1,7 +1,7 @@
 /* Font's */
 @font-face {
   font-family: 'Jost';
-  src: url('/fonts/Jost-Light.ttf') format('ttf');
+  src: url('/fonts/light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -9,15 +9,15 @@
 
 @font-face {
   font-family: 'Jost';
-  src: url('/fonts/Jost-Regular.ttf') format('ttf');
-  font-weight: normal;
+  src: url('/fonts/regular.woff2') format('woff2');
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Jost';
-  src: url('/fonts/Jost-Medium.ttf') format('ttf');
+  src: url('/fonts/medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -129,6 +129,7 @@ a {
   right: -2rem;
   bottom: 1rem;
   cursor: pointer;
+  color: var(--text-color);
 }
 
 /* Logo */
@@ -284,13 +285,17 @@ a {
   padding: 2rem 0.75rem 1rem;
   border-radius: 0.5rem;
   width: 100%;
+
   background-color: var(--game-background);
 
-  font-size: 2rem;
   text-align: center;
-  line-height: 1.4;
-
   word-break: break-word;
+}
+
+.question {
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 1.4;
 }
 
 .category {
